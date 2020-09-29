@@ -1,4 +1,4 @@
-# SwitchStatementExercise
+# Switch-Statement-Exercise
 Write out a Switch Statement for the pseudo code below
 Assume star wars is your favorite movie.
 
